@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/3-column-preview-card-component-nI8mfvQaUa
   
 - Live Site URL: https://alaa-mekibes.github.io/3-column-preview-card-component-frontend-mentor
 
